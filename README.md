@@ -2,11 +2,11 @@
 
 This project automates the identification and cleanup of stale Amazon EBS snapshots to reduce unnecessary AWS storage costs.
 
-Problem Statement
+## 🔴Problem Statement
 
 Over time, EBS snapshots accumulate in AWS accounts—even after their associated EC2 volumes or instances are deleted. These unused snapshots continue to incur storage charges, leading to avoidable cloud costs.
 
-Solution Overview
+## 🟢Solution Overview
 
 I implemented an AWS Lambda function in Python that:
 
