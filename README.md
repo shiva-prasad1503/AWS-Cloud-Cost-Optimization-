@@ -30,6 +30,9 @@ This ensures continuous monitoring and cleanup without manual intervention.
 
 The CloudWatch rule invokes the Lambda function based on a cron schedule.
 https://github.com/shiva-prasad1503/AWS-Cloud-Cost-Optimization-/blob/main/AWS%20snapshot%20deletion%20automation%20flowchart.png
+![AWS Stale EBS Snapshot Architecture](
+AWS-Cloud-Cost-Optimization-/AWS snapshot deletion automation flowchart.png)
+
 
 AWS Services Used
 
